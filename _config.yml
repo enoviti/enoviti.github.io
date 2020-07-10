@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'enoviti'
+description: 'Enoviti is my space to share my professional experience with peers'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+baseurl: ''
+disqus: 'enoviti'
+email: 'apurohit@enoviti.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    anshuman:
+      name:           Anshuman
+      site:           https://www.enoviti.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Anshuman, the author of this Blog. I hope you like it!"
+      email:          apurohit@enoviti.com
+      twitter:        https://twitter.com/enoviti
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    # jane:
+    #   name:           Jane
+    #   site:           https://www.wowthemes.net
+    #   avatar:         /assets/images/avatar2.jpg
+    #   bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    #   email:          fakemail@gmail.com
+    #   twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: anshuman
       avatar: /assets/images/avatar1.jpg
       
   # all pages
