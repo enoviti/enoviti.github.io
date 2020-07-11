@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'enoviti'
 email: 'apurohit@enoviti.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://enoviti.us10.list-manage.com/subscribe/post?u=f615c5e142cb8aa79d93f0c0c&amp;id=8d72dabab6'
 
 include: ["_pages"]
 permalink: /:title/
